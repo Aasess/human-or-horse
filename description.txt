@@ -1,0 +1,12 @@
+Objectives:
+	to train dataset containning horse and human image
+	to classify whether the new image(test image) is horse or human
+
+
+dataset : kaggle.com/https://www.kaggle.com/sanikamal/horses-or-humans-dataset/data
+
+there are almost 500-500 images of horse and human in each training set
+
+test image = download anyone from internet having dimension 300*300 as in training set the image is of 300 * 300 dimension
+ or use anyone from validation dataset from that site
+
